@@ -1,0 +1,42 @@
+.nifty_desk_container {
+    font-family: sans-serif;
+    color: #333333;
+}
+
+.nifty_desk_container h1 {
+	font-size: 24px;
+}
+
+.nifty_desk_container h2 {
+    font-size: 21px;  
+}
+
+.nifty_desk_container h3 {
+    font-size: 19px;  
+}
+
+.nifty_desk_container h4 {
+    font-size: 18px;  
+}
+
+.nifty_desk_ul {
+    list-style: none;
+}
+
+.nifty_desk_new_ticket_button {
+    background: #f4f4f4;
+    color: #8e8e8e;
+    border: 1px solid #c3c3c3;
+    font-size: 14px;
+    vertical-align: text-top;
+
+    transition: background 0.5s;
+    -webkit-transition: background 0.5s;
+    -moz-transition: background 0.5s;
+    -o-transition: background 0.5s;
+}
+.nifty_desk_new_ticket_button:hover {
+    color: #8e8e8e;
+    text-decoration: none;
+    background-color: #c1c1c1;
+}

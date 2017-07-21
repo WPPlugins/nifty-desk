@@ -1,0 +1,112 @@
+.nifty_desk_reporting_actions{
+	text-align: right;
+}
+
+.nifty_desk_reporting_action_dropdown{
+	border-radius: 3px;
+	min-width: 120px;
+}
+
+.nifty_desk_reporting_row{
+	width:100%;
+    text-align: center;
+}
+
+.nifty_desk_reporting_col_30{
+	width:28%;
+	display: inline-block;
+	vertical-align: top;
+}
+
+.nifty_desk_reporting_col_50{
+	width:48%;
+	display: inline-block;
+	vertical-align: top;
+}
+
+.nifty_desk_reporting_col_70{
+	width: 68%;
+	display: inline-block;
+	vertical-align: top;
+}
+
+.nifty_deskat_heading{
+	font-size: 13px;
+}
+
+.nifty_deskat_heading_sub{
+	font-size: 9px;
+}
+
+.nifty_deskat_heading span {
+    width: 100%;
+    display: block;
+    text-align: center;
+    margin: 5px;
+}
+
+.nifty_desk_container {
+    background-color: #ffffff;
+    padding: 5px;
+    max-width: 98%;
+}
+
+.nifty_desk_container_clear {
+    padding-top: 5px;
+    max-width: 98%;
+}
+
+.nifty_desk_border{
+	border:1px solid #dddddd;
+}
+
+.nifty_desk_rep_chart{
+	height:300px;
+}
+
+.nifty_desk_rounded_container{
+	height: 300px;
+    border-radius: 3px;
+}
+
+.nifty_desk_rounded_container_grey{
+	height: 300px;
+    border-radius: 3px;
+    background-color: #e9e9e9;
+}
+
+.nifty_desk_inline_inputs{
+	display: inline-block;;
+	max-width: 150px;
+}
+
+.nifty_desk_pad_10{
+	padding:10px;
+}
+
+.nifty_desk_reporting_agent_row {
+    display: inline-block;
+    float: left;
+}
+
+.nifty_desk_rounded{
+	border-radius: 3px;
+}
+
+.nifty_desk_white_back{
+	background-color: #ffffff;
+}
+
+.nifty_desk_left_float{
+ 	float:left;
+}
+
+.nifty_desk_right_float{
+	float:right;
+}
+
+.nifty_desk_min_card_320{
+	min-height: 320px;
+}
+
+

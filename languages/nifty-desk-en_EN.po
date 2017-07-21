@@ -1,0 +1,1514 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Nifty Desk\n"
+"POT-Creation-Date: 2016-11-04 06:01+0200\n"
+"PO-Revision-Date: 2016-11-04 06:02+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.10\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: includes/error-log-page.php:4 nifty-desk.php:446
+msgid "System Log"
+msgstr ""
+
+#: includes/feedback-page.php:8
+msgid "Nifty Desk Feedback"
+msgstr ""
+
+#: includes/feedback-page.php:9
+msgid "We'd love to hear your comments and/or suggestions"
+msgstr ""
+
+#: includes/feedback-page.php:14
+msgid "Your Name"
+msgstr ""
+
+#: includes/feedback-page.php:22
+msgid "Your Email"
+msgstr ""
+
+#: includes/feedback-page.php:30
+msgid "Your Website"
+msgstr ""
+
+#: includes/feedback-page.php:38 nifty-desk.php:445 nifty-desk.php:455
+msgid "Feedback"
+msgstr ""
+
+#: includes/feedback-page.php:50
+msgid "Send Feedback"
+msgstr ""
+
+#: includes/footer.php:6
+msgid "If you find any errors or if you have any suggestions"
+msgstr ""
+
+#: includes/footer.php:6
+msgid "please get in touch with us"
+msgstr ""
+
+#: includes/footer.php:13
+msgid "Nifty Desk Version"
+msgstr ""
+
+#: includes/footer.php:14
+msgid "Support"
+msgstr ""
+
+#: includes/footer.php:15
+#: templates/basic_templates/classic/support_center.php:20
+msgid "Documentation"
+msgstr ""
+
+#: includes/footer.php:16
+msgid "Go Premium"
+msgstr ""
+
+#: includes/settings-page.php:34
+msgid "Nifty Desk Settings"
+msgstr ""
+
+#: includes/settings-page.php:37
+msgid ""
+"You are using an outdated version of Nifty Desk Pro. Please update the "
+"plugin to take advantage of new features."
+msgstr ""
+
+#: includes/settings-page.php:47
+msgid "Main Settings"
+msgstr ""
+
+#: includes/settings-page.php:48
+msgid "Email"
+msgstr ""
+
+#: includes/settings-page.php:49 includes/settings-page.php:638
+msgid "Agents"
+msgstr ""
+
+#: includes/settings-page.php:50 includes/settings-page.php:655
+msgid "Views"
+msgstr ""
+
+#: includes/settings-page.php:51 includes/settings-page.php:647
+msgid "Channels"
+msgstr ""
+
+#: includes/settings-page.php:52 includes/settings-page.php:651
+msgid "Schedules"
+msgstr ""
+
+#: includes/settings-page.php:57
+msgid "Upgrade"
+msgstr ""
+
+#: includes/settings-page.php:65
+msgid "Customer Satisfaction Survey"
+msgstr ""
+
+#: includes/settings-page.php:83
+msgid "API Key"
+msgstr ""
+
+#: includes/settings-page.php:84
+msgid "Enter your Nifty Desk Premium API key"
+msgstr ""
+
+#: includes/settings-page.php:88
+msgid "Where do I get my API key?"
+msgstr ""
+
+#: includes/settings-page.php:121
+msgid "Notification Settings"
+msgstr ""
+
+#: includes/settings-page.php:125
+msgid "Notifications"
+msgstr ""
+
+#: includes/settings-page.php:125
+msgid "You will recieve email notifications"
+msgstr ""
+
+#: includes/settings-page.php:128
+msgid "Send a notification when a new support ticket is received"
+msgstr ""
+
+#: includes/settings-page.php:129
+msgid "Send a notification when a new response is received"
+msgstr ""
+
+#: includes/settings-page.php:130
+msgid ""
+"Send a notification to the user whenever the status of a support ticket "
+"changes"
+msgstr ""
+
+#: includes/settings-page.php:132
+msgid "Send a notification to the agent when a ticket is assigned to them"
+msgstr ""
+
+#: includes/settings-page.php:134 includes/settings-page.php:141
+#: includes/settings-page.php:172 includes/settings-page.php:209
+#: includes/settings-page.php:233 includes/settings-page.php:250
+#: includes/settings-page.php:278 includes/settings-page.php:301
+#: includes/settings-page.php:348
+msgid "Premium Version"
+msgstr ""
+
+#: includes/settings-page.php:139
+msgid "Send a notification to all agents when a new ticket is received."
+msgstr ""
+
+#: includes/settings-page.php:150
+msgid "Thank you text"
+msgstr ""
+
+#: includes/settings-page.php:151
+msgid "This is sent when someone posts a new support ticket"
+msgstr ""
+
+#: includes/settings-page.php:159
+msgid "Default Ticket Status"
+msgstr ""
+
+#: includes/settings-page.php:164 includes/settings-page.php:169
+#: modules/dashboard-ajax.php:792 modules/reporting-ajax.php:101
+#: nifty-desk.php:1312 nifty-desk.php:2186 nifty-desk.php:2206
+#: nifty-desk.php:2227 nifty-desk.php:2270 nifty-desk.php:2436
+msgid "New"
+msgstr ""
+
+#: includes/settings-page.php:165 modules/dashboard-ajax.php:793
+#: modules/metaboxes.php:431 modules/reporting-ajax.php:97 nifty-desk.php:1306
+#: nifty-desk.php:2183 nifty-desk.php:2198 nifty-desk.php:2219
+#: nifty-desk.php:2262 templates/basic_templates/classic/support_center.php:49
+msgid "Open"
+msgstr ""
+
+#: includes/settings-page.php:180
+msgid "Priorities"
+msgstr ""
+
+#: includes/settings-page.php:183
+msgid "Default ticket priority:"
+msgstr ""
+
+#: includes/settings-page.php:185 modules/dashboard-ajax.php:800
+#: modules/metaboxes.php:443 nifty-desk.php:2285 nifty-desk.php:2293
+#: nifty-desk.php:2306 nifty-desk.php:2314 nifty-desk.php:2325
+#: nifty-desk.php:2333 nifty-desk.php:2961 nifty-desk.php:2978
+#: nifty-desk.php:2995 nifty-desk.php:3012 nifty-desk.php:3029
+#: nifty-desk.php:3047
+msgid "Low"
+msgstr ""
+
+#: includes/settings-page.php:186 modules/dashboard-ajax.php:801
+#: modules/metaboxes.php:444 nifty-desk.php:2287 nifty-desk.php:2308
+#: nifty-desk.php:2327 nifty-desk.php:2962 nifty-desk.php:2979
+#: nifty-desk.php:2996 nifty-desk.php:3013 nifty-desk.php:3030
+#: nifty-desk.php:3048
+msgid "High"
+msgstr ""
+
+#: includes/settings-page.php:187 modules/dashboard-ajax.php:802
+#: modules/metaboxes.php:445 nifty-desk.php:2289 nifty-desk.php:2310
+#: nifty-desk.php:2329 nifty-desk.php:2963 nifty-desk.php:2980
+#: nifty-desk.php:2997 nifty-desk.php:3014 nifty-desk.php:3031
+#: nifty-desk.php:3049
+msgid "Urgent"
+msgstr ""
+
+#: includes/settings-page.php:188 modules/dashboard-ajax.php:803
+#: modules/metaboxes.php:446 nifty-desk.php:2291 nifty-desk.php:2312
+#: nifty-desk.php:2331 nifty-desk.php:2964 nifty-desk.php:2981
+#: nifty-desk.php:2998 nifty-desk.php:3015 nifty-desk.php:3032
+#: nifty-desk.php:3050
+msgid "Critical"
+msgstr ""
+
+#: includes/settings-page.php:197
+msgid "Allow users to select a priority when submitting a ticket"
+msgstr ""
+
+#: includes/settings-page.php:202
+msgid "Departments "
+msgstr ""
+
+#: includes/settings-page.php:206
+msgid "Allow users to select a department when submitting a ticket"
+msgstr ""
+
+#: includes/settings-page.php:226
+msgid " Select a default "
+msgstr ""
+
+#: includes/settings-page.php:228
+msgid "department"
+msgstr ""
+
+#: includes/settings-page.php:230
+msgid " your support tickets will be added to."
+msgstr ""
+
+#: includes/settings-page.php:234
+msgid "None"
+msgstr ""
+
+#: includes/settings-page.php:242
+msgid "Require Login?"
+msgstr ""
+
+#: includes/settings-page.php:248
+msgid "Require users to login when submitting a support ticket?"
+msgstr ""
+
+#: includes/settings-page.php:259
+msgid "Enable CAPTCHA?"
+msgstr ""
+
+#: includes/settings-page.php:267
+msgid ""
+"Enable CAPTCHA verification for users who are not logged in when submitting "
+"a ticket?"
+msgstr ""
+
+#: includes/settings-page.php:271
+msgid "Really Simple CAPTCHA"
+msgstr ""
+
+#: includes/settings-page.php:286
+msgid "Enable file uploads"
+msgstr ""
+
+#: includes/settings-page.php:301
+msgid ""
+"Give a user the ability to upload a file when creating a support ticket or "
+"adding a response on the admin ticket editor page. Only available in the"
+msgstr ""
+
+#: includes/settings-page.php:306 includes/settings-page.php:311
+msgid ""
+"Give a user the ability to upload a file when creating a support ticket or "
+"adding a response on the admin ticket editor page."
+msgstr ""
+
+#: includes/settings-page.php:333
+msgid "Close tickets automatically"
+msgstr ""
+
+#: includes/settings-page.php:348
+msgid ""
+"Enable automatic closing of tickets after a set amount of days. Only "
+"available in the"
+msgstr ""
+
+#: includes/settings-page.php:367
+msgid "Automatically close tickets after"
+msgstr ""
+
+#: includes/settings-page.php:375 includes/settings-page.php:396
+msgid "Please select"
+msgstr ""
+
+#: includes/settings-page.php:414
+msgid "day(s)"
+msgstr ""
+
+#: includes/settings-page.php:417
+msgid "Please tick the checkbox for settings."
+msgstr ""
+
+#: includes/settings-page.php:457
+msgid "Exclude Bootstrap"
+msgstr ""
+
+#: includes/settings-page.php:467 includes/settings-page.php:471
+msgid ""
+"Exclude Bootstrap library (select this if you are experiencing issues with "
+"your layout and theme in the front end)"
+msgstr ""
+
+#: includes/settings-page.php:506 includes/settings-page.php:514
+#: includes/settings-page.php:519
+msgid "Exclude Font Awesome"
+msgstr ""
+
+#: includes/settings-page.php:543
+msgid "General Settings"
+msgstr ""
+
+#: includes/settings-page.php:546
+msgid "Allow users to post HTML in support tickets and responses?"
+msgstr ""
+
+#: includes/settings-page.php:555
+msgid "Collapse WordPress Admin menu when using the Dashboard"
+msgstr ""
+
+#: includes/settings-page.php:561
+msgid "Display Tickets In Legacy View"
+msgstr ""
+
+#: includes/settings-page.php:564
+msgid ""
+"Change back from the modern support ticket view to the legacy view (Removes "
+"Ajax ticket loading)"
+msgstr ""
+
+#: includes/settings-page.php:569
+msgid "Need more options?"
+msgstr ""
+
+#: includes/settings-page.php:569
+msgid "Let us know!"
+msgstr ""
+
+#: includes/settings-page.php:569
+msgid "and we'll add it in!"
+msgstr ""
+
+#: includes/settings-page.php:575
+msgid "Email Settings"
+msgstr ""
+
+#: includes/settings-page.php:612 includes/settings-page.php:643
+msgid "Upgrade to the"
+msgstr ""
+
+#: includes/settings-page.php:612 includes/settings-page.php:643
+msgid "Premium version"
+msgstr ""
+
+#: includes/settings-page.php:612
+msgid ""
+"of Nifty Desk and automatically convert received emails to support tickets "
+"and responses"
+msgstr ""
+
+#: includes/settings-page.php:642
+msgid ""
+"Nifty Desk Basic allows for 1 Agent, which is set to be the super-admin of "
+"the site."
+msgstr ""
+
+#: includes/settings-page.php:643
+msgid "of Nifty Desk and assign more than one support agent."
+msgstr ""
+
+#: includes/settings-page.php:664 modules/reporting.php:194
+msgid "Upgrade to the premium version"
+msgstr ""
+
+#: includes/settings-page.php:673
+msgid "Add a support desk to the front end of your website"
+msgstr ""
+
+#: includes/settings-page.php:678
+msgid "Add as many support agents as you need"
+msgstr ""
+
+#: includes/settings-page.php:683
+msgid "Convert emails to support tickets"
+msgstr ""
+
+#: includes/settings-page.php:696
+msgid "Customer Satisfaction Survey Settings"
+msgstr ""
+
+#: includes/settings-page.php:698
+msgid "Text to display along with the stars rating"
+msgstr ""
+
+#: includes/settings-page.php:725
+msgid "Enable the sending of customer satisfaction surveys"
+msgstr ""
+
+#: includes/settings-page.php:726
+msgid ""
+"A listing of all surveys you have created will be sent in the e-mail that is "
+"delivered to the user who closed the ticket"
+msgstr ""
+
+#: includes/settings-page.php:760
+msgid "Save Settings"
+msgstr ""
+
+#: includes/settings-page.php:764
+msgid "Need help?"
+msgstr ""
+
+#: includes/settings-page.php:764
+msgid "Read the documentation"
+msgstr ""
+
+#: includes/welcome-page.php:4
+msgid "Welcome to "
+msgstr ""
+
+#: includes/welcome-page.php:8
+msgid "Create your own support desk in minutes"
+msgstr ""
+
+#: includes/welcome-page.php:11
+msgid "How did you find us?"
+msgstr ""
+
+#: includes/welcome-page.php:16
+msgid "WordPress.org plugin repository "
+msgstr ""
+
+#: includes/welcome-page.php:19
+msgid "Search Term"
+msgstr ""
+
+#: includes/welcome-page.php:23
+msgid "Google or other search Engine"
+msgstr ""
+
+#: includes/welcome-page.php:29
+msgid "Friend recommendation"
+msgstr ""
+
+#: includes/welcome-page.php:35
+msgid "Other"
+msgstr ""
+
+#: includes/welcome-page.php:39
+msgid "Please Explain"
+msgstr ""
+
+#: includes/welcome-page.php:48 nifty-desk.php:3155
+msgid "Submit"
+msgstr ""
+
+#: includes/welcome-page.php:50
+msgid "Skip"
+msgstr ""
+
+#: modules/api/nifty-desk-api-functions.php:50
+msgid "Your support desk log in details"
+msgstr ""
+
+#: modules/api/nifty-desk-api-functions.php:50
+msgid "Login URL:"
+msgstr ""
+
+#: modules/api/nifty-desk-api-functions.php:50
+msgid "Username:"
+msgstr ""
+
+#: modules/api/nifty-desk-api-functions.php:50
+msgid "Password:"
+msgstr ""
+
+#: modules/api/nifty-desk-api.php:43 modules/api/nifty-desk-api.php:69
+msgid "REST API"
+msgstr ""
+
+#: modules/api/nifty-desk-api.php:60
+msgid ""
+"To make use of the REST API, please ensure you are using a version of "
+"WordPress with the REST API included."
+msgstr ""
+
+#: modules/api/nifty-desk-api.php:62
+msgid ""
+"Alternatively, please install the official Rest API plugin from WordPress."
+msgstr ""
+
+#: modules/api/nifty-desk-api.php:73 templates/templates.php:30
+msgid "Option"
+msgstr ""
+
+#: modules/api/nifty-desk-api.php:74 templates/templates.php:31
+msgid "Value"
+msgstr ""
+
+#: modules/api/nifty-desk-api.php:80
+msgid "Secret Token"
+msgstr ""
+
+#: modules/api/nifty-desk-api.php:83
+msgid "No secret token found"
+msgstr ""
+
+#: modules/api/nifty-desk-api.php:84
+msgid "Generate New"
+msgstr ""
+
+#: modules/api/nifty-desk-api.php:89
+msgid "Supported API Calls"
+msgstr ""
+
+#: modules/api/nifty-desk-api.php:93 modules/api/nifty-desk-api.php:101
+#: modules/api/nifty-desk-api.php:109
+msgid "Try"
+msgstr ""
+
+#: modules/api/nifty-desk-api.php:117
+msgid "API Response Codes"
+msgstr ""
+
+#: modules/api/nifty-desk-api.php:262
+msgid "Rest Console "
+msgstr ""
+
+#: modules/api/nifty-desk-api.php:269
+msgid "Try it!"
+msgstr ""
+
+#: modules/autoassign.php:14
+msgid "Auto Assign Schedules"
+msgstr ""
+
+#: modules/autoassign.php:19
+msgid "No schedules. Set up schedules with the Pro version."
+msgstr ""
+
+#: modules/channels.php:20 modules/dashboard.php:112
+msgid "Channel"
+msgstr ""
+
+#: modules/channels.php:35
+msgid "No channels"
+msgstr ""
+
+#: modules/dashboard-ajax.php:125
+msgid "Ticket not found"
+msgstr ""
+
+#: modules/dashboard-ajax.php:340 modules/dashboard-ajax.php:444
+#: modules/dashboard-ajax.php:1303 modules/views.php:534 nifty-desk.php:239
+msgid "No tickets found"
+msgstr ""
+
+#: modules/dashboard-ajax.php:536
+msgid "Internal Note"
+msgstr ""
+
+#: modules/dashboard-ajax.php:573
+msgid "Seen"
+msgstr ""
+
+#: modules/dashboard-ajax.php:594
+#: templates/basic_templates/classic/ticket_view.php:22
+msgid "Ticket Author"
+msgstr ""
+
+#: modules/dashboard-ajax.php:629 modules/dashboard-ajax.php:771
+#: modules/dashboard-ajax.php:986 nifty-desk.php:1860
+msgid "File no longer exists"
+msgstr ""
+
+#: modules/dashboard-ajax.php:673
+msgid "Reply to "
+msgstr ""
+
+#: modules/dashboard-ajax.php:699 nifty-desk.php:1450
+msgid "Submit Response"
+msgstr ""
+
+#: modules/dashboard-ajax.php:725
+msgid "Ticket #"
+msgstr ""
+
+#: modules/dashboard-ajax.php:725
+msgid "Back end link"
+msgstr ""
+
+#: modules/dashboard-ajax.php:725
+msgid "Front end link"
+msgstr ""
+
+#: modules/dashboard-ajax.php:794 modules/reporting-ajax.php:98
+#: nifty-desk.php:1318 nifty-desk.php:2187 nifty-desk.php:2204
+#: nifty-desk.php:2225 nifty-desk.php:2268
+#: templates/basic_templates/classic/support_center.php:61
+msgid "Pending"
+msgstr ""
+
+#: modules/dashboard-ajax.php:795 modules/reporting-ajax.php:100
+#: nifty-desk.php:1315 nifty-desk.php:2185 nifty-desk.php:2202
+#: nifty-desk.php:2223 nifty-desk.php:2266
+#: templates/basic_templates/classic/support_center.php:55
+msgid "Closed"
+msgstr ""
+
+#: modules/dashboard-ajax.php:796 modules/metaboxes.php:432
+#: modules/reporting-ajax.php:99 nifty-desk.php:1309 nifty-desk.php:2184
+#: nifty-desk.php:2200 nifty-desk.php:2221 nifty-desk.php:2264
+msgid "Solved"
+msgstr ""
+
+#: modules/dashboard-ajax.php:810 modules/metaboxes.php:384
+#: modules/metaboxes.php:427
+msgid "Ticket Status"
+msgstr ""
+
+#: modules/dashboard-ajax.php:828
+msgid "Ticket Priority"
+msgstr ""
+
+#: modules/dashboard-ajax.php:997
+msgid ""
+"There was a problem trying to send the email notification for this response. "
+"Please check your WordPress email settings and/or host to ensure that your "
+"settings are correct and no email ports are blocked."
+msgstr ""
+
+#: modules/dashboard-ajax.php:1000 modules/dashboard-ajax.php:1006
+msgid "Your ticket has been successfully submitted"
+msgstr ""
+
+#: modules/dashboard-ajax.php:1067
+msgid "Your note has been successfully saved"
+msgstr ""
+
+#: modules/dashboard-ajax.php:1114
+msgid "The selected tickets have been successfully deleted"
+msgstr ""
+
+#: modules/dashboard.php:49
+msgid "Dashboard"
+msgstr ""
+
+#: modules/dashboard.php:60
+msgid "Search for a Ticket"
+msgstr ""
+
+#: modules/dashboard.php:61
+msgid "Press 'Enter' to search"
+msgstr ""
+
+#: modules/dashboard.php:88 modules/views.php:728
+msgid "Delete"
+msgstr ""
+
+#: modules/dashboard.php:94
+msgid "Apply"
+msgstr ""
+
+#: modules/dashboard.php:104
+msgid "ID"
+msgstr ""
+
+#: modules/dashboard.php:105 nifty-desk.php:3111
+msgid "Subject"
+msgstr ""
+
+#: modules/dashboard.php:106
+msgid "Requester"
+msgstr ""
+
+#: modules/dashboard.php:107
+msgid "Created"
+msgstr ""
+
+#: modules/dashboard.php:108
+msgid "Updated"
+msgstr ""
+
+#: modules/dashboard.php:109 modules/metaboxes.php:439 nifty-desk.php:2010
+#: nifty-desk.php:2019 nifty-desk.php:2957 nifty-desk.php:2974
+#: nifty-desk.php:2991 nifty-desk.php:3008 nifty-desk.php:3025
+#: nifty-desk.php:3043
+msgid "Priority"
+msgstr ""
+
+#: modules/dashboard.php:110 modules/metaboxes.php:127 nifty-desk.php:281
+#: nifty-desk.php:443 nifty-desk.php:2011 nifty-desk.php:2020
+msgid "Responses"
+msgstr ""
+
+#: modules/dashboard.php:111
+msgid "Owner"
+msgstr ""
+
+#: modules/dashboard.php:119
+msgid "Previous"
+msgstr ""
+
+#: modules/dashboard.php:120
+msgid "Next"
+msgstr ""
+
+#: modules/dashboard.php:122
+msgid "Need help? View our documentation"
+msgstr ""
+
+#: modules/metaboxes.php:11
+msgid "Response Information"
+msgstr ""
+
+#: modules/metaboxes.php:38
+msgid "Parent ID"
+msgstr ""
+
+#: modules/metaboxes.php:185
+msgid ""
+"This support ticket is pending approval. Please change the status to 'Open' "
+"before responding to this ticket."
+msgstr ""
+
+#: modules/metaboxes.php:192
+msgid "Add a Response"
+msgstr ""
+
+#: modules/metaboxes.php:201 modules/metaboxes.php:303
+msgid "Title"
+msgstr ""
+
+#: modules/metaboxes.php:210 nifty-desk.php:282
+msgid "Response"
+msgstr ""
+
+#: modules/metaboxes.php:231
+msgid "Allowed file formats: JPEG, PNG, GIF, TIFF, PDF, ZIP"
+msgstr ""
+
+#: modules/metaboxes.php:247
+msgid "Send"
+msgstr ""
+
+#: modules/metaboxes.php:247
+msgid "Send Response"
+msgstr ""
+
+#: modules/metaboxes.php:276 nifty-desk.php:332
+msgid "Notes"
+msgstr ""
+
+#: modules/metaboxes.php:294
+msgid "Add a Note"
+msgstr ""
+
+#: modules/metaboxes.php:306
+msgid "Note for "
+msgstr ""
+
+#: modules/metaboxes.php:311 nifty-desk.php:333 templates/templates.php:106
+msgid "Note"
+msgstr ""
+
+#: modules/metaboxes.php:319
+msgid "Save"
+msgstr ""
+
+#: modules/metaboxes.php:319 nifty-desk.php:3739
+msgid "Save Note"
+msgstr ""
+
+#: modules/metaboxes.php:433
+msgid "Pending Approval"
+msgstr ""
+
+#: modules/metaboxes.php:452
+msgid "Author e-mail:"
+msgstr ""
+
+#: modules/reporting.php:10 modules/reporting.php:46
+msgid "Nifty Desk - Reporting"
+msgstr ""
+
+#: modules/reporting.php:38
+msgid "Reporting"
+msgstr ""
+
+#: modules/reporting.php:106 modules/reporting.php:141
+msgid "Total Tickets"
+msgstr ""
+
+#: modules/reporting.php:107 modules/reporting.php:145 nifty-desk.php:2439
+msgid "Solved Tickets"
+msgstr ""
+
+#: modules/reporting.php:122
+msgid "Last 24 hours"
+msgstr ""
+
+#: modules/reporting.php:123
+msgid "Last 7 days"
+msgstr ""
+
+#: modules/reporting.php:124
+msgid "Last 30 days"
+msgstr ""
+
+#: modules/reporting.php:125
+msgid "Last 60 days"
+msgstr ""
+
+#: modules/reporting.php:149
+msgid "First Reply Time"
+msgstr ""
+
+#: modules/reporting.php:193
+msgid "Get Comparison Charts"
+msgstr ""
+
+#: modules/reporting.php:196
+msgid "Upgrade now"
+msgstr ""
+
+#: modules/reporting.php:205
+msgid "View All Statistics"
+msgstr ""
+
+#: modules/views.php:465 modules/views.php:470
+msgid "Support Desk"
+msgstr ""
+
+#: modules/views.php:466 modules/views.php:471
+msgid "s.desk"
+msgstr ""
+
+#: modules/views.php:622
+msgid "Your unsolved tickets"
+msgstr ""
+
+#: modules/views.php:642
+msgid "All unsolved tickets"
+msgstr ""
+
+#: modules/views.php:659
+msgid "New tickets"
+msgstr ""
+
+#: modules/views.php:674
+msgid "Open tickets"
+msgstr ""
+
+#: modules/views.php:689
+msgid "Pending tickets"
+msgstr ""
+
+#: modules/views.php:704 nifty-desk.php:2440
+msgid "Closed Tickets"
+msgstr ""
+
+#: modules/views.php:735
+msgid "Actions"
+msgstr ""
+
+#: modules/views.php:738
+msgid "Merge into another ticket"
+msgstr ""
+
+#: modules/views.php:751
+#, php-format
+msgid ""
+"This ticket was a follow up from <a href=\"javascript:void(0);\" tid=\"%1$s"
+"\" class=\"nifty_desk_followup_from\">#%1$s</a>.</a>"
+msgstr ""
+
+#: modules/views.php:763
+#, php-format
+msgid ""
+"This ticket was merged into <a href=\"javascript:void(0);\" tid=\"%1$s\" "
+"class=\"nifty_desk_merged_with\">#%1$s</a>.</a>"
+msgstr ""
+
+#: modules/views.php:775
+#, php-format
+msgid ""
+"This ticket was merged from <a href=\"javascript:void(0);\" tid=\"%1$s\" "
+"class=\"nifty_desk_merged_with\">#%1$s</a>.</a>"
+msgstr ""
+
+#: modules/widgets.php:12
+msgid "Originator"
+msgstr ""
+
+#: modules/widgets.php:16
+msgid "change"
+msgstr ""
+
+#: nifty-desk.php:126 templates/templates.php:517
+msgid "This page is generated by your support desk theme"
+msgstr ""
+
+#: nifty-desk.php:127
+msgid "Submit a ticket"
+msgstr ""
+
+#: nifty-desk.php:144 nifty-desk.php:165
+msgid ""
+"<p>Thank you for submitting your support ticket. One of our agents will "
+"respond as soon as possible.</p>{ticket_content}{login_details}<p>To view "
+"this ticket, please follow this link: {ticket_link}</p>"
+msgstr ""
+
+#: nifty-desk.php:230 nifty-desk.php:554
+msgid "Tickets"
+msgstr ""
+
+#: nifty-desk.php:231 nifty-desk.php:553
+msgid "Ticket"
+msgstr ""
+
+#: nifty-desk.php:232 nifty-desk.php:235
+msgid "New Ticket"
+msgstr ""
+
+#: nifty-desk.php:233
+msgid "Add New Ticket"
+msgstr ""
+
+#: nifty-desk.php:234
+msgid "Edit Ticket"
+msgstr ""
+
+#: nifty-desk.php:236
+msgid "All Tickets"
+msgstr ""
+
+#: nifty-desk.php:237
+msgid "View Ticket"
+msgstr ""
+
+#: nifty-desk.php:238
+msgid "Search Tickets"
+msgstr ""
+
+#: nifty-desk.php:240
+msgid "No tickets found in the Trash"
+msgstr ""
+
+#: nifty-desk.php:241 templates/basic_templates/classic/support_center.php:7
+msgid "Help Desk"
+msgstr ""
+
+#: nifty-desk.php:245
+msgid "Support tickets"
+msgstr ""
+
+#: nifty-desk.php:283 nifty-desk.php:286
+msgid "New Response"
+msgstr ""
+
+#: nifty-desk.php:284
+msgid "Add New Response"
+msgstr ""
+
+#: nifty-desk.php:285
+msgid "Edit Response"
+msgstr ""
+
+#: nifty-desk.php:287
+msgid "All Responses"
+msgstr ""
+
+#: nifty-desk.php:288
+msgid "View Response"
+msgstr ""
+
+#: nifty-desk.php:289
+msgid "Search Responses"
+msgstr ""
+
+#: nifty-desk.php:290
+msgid "No responses found"
+msgstr ""
+
+#: nifty-desk.php:291
+msgid "No responses found in the Trash"
+msgstr ""
+
+#: nifty-desk.php:292
+msgid "Ticket Responses"
+msgstr ""
+
+#: nifty-desk.php:296
+msgid "Responses to support tickets"
+msgstr ""
+
+#: nifty-desk.php:334 nifty-desk.php:337
+msgid "New Note"
+msgstr ""
+
+#: nifty-desk.php:335
+msgid "Add New Note"
+msgstr ""
+
+#: nifty-desk.php:336
+msgid "Edit Note"
+msgstr ""
+
+#: nifty-desk.php:338
+msgid "All Notes"
+msgstr ""
+
+#: nifty-desk.php:339
+msgid "View Note"
+msgstr ""
+
+#: nifty-desk.php:340
+msgid "Search Notes"
+msgstr ""
+
+#: nifty-desk.php:341
+msgid "No notes found"
+msgstr ""
+
+#: nifty-desk.php:342
+msgid "No notes found in the Trash"
+msgstr ""
+
+#: nifty-desk.php:343
+msgid "Internal Notes"
+msgstr ""
+
+#: nifty-desk.php:347
+msgid "Internal Notes for support tickets"
+msgstr ""
+
+#: nifty-desk.php:399 nifty-desk.php:624
+msgid ""
+"Thank you for submitting your support ticket. One of our agents will respond "
+"as soon as possible."
+msgstr ""
+
+#: nifty-desk.php:444 nifty-desk.php:454
+msgid "Settings"
+msgstr ""
+
+#: nifty-desk.php:446 nifty-desk.php:456
+msgid "Log"
+msgstr ""
+
+#: nifty-desk.php:449
+msgid "Nifty Desk"
+msgstr ""
+
+#: nifty-desk.php:456
+msgid "Error Log"
+msgstr ""
+
+#: nifty-desk.php:545
+msgid "Merge with another ticket"
+msgstr ""
+
+#: nifty-desk.php:546
+msgid ""
+"Please insert the ticket number that you would like to merge this ticket "
+"into."
+msgstr ""
+
+#: nifty-desk.php:547
+msgid "Ticket ID:"
+msgstr ""
+
+#: nifty-desk.php:548
+msgid "Preview"
+msgstr ""
+
+#: nifty-desk.php:549
+msgid "Please ensure you insert the ticket ID only (numeric input only)"
+msgstr ""
+
+#: nifty-desk.php:550
+msgid "The merge ID cannot be the same as the parent ID."
+msgstr ""
+
+#: nifty-desk.php:551
+msgid "Merge"
+msgstr ""
+
+#: nifty-desk.php:552
+msgid "Cancel"
+msgstr ""
+
+#: nifty-desk.php:646
+msgid "Your settings have been saved."
+msgstr ""
+
+#: nifty-desk.php:669 nifty-desk.php:682
+msgid "Thank you for your feedback. We will be in touch soon"
+msgstr ""
+
+#: nifty-desk.php:685
+msgid "There was a problem sending your feedback. Please log your feedback on "
+msgstr ""
+
+#: nifty-desk.php:708
+msgid "No errors to report on"
+msgstr ""
+
+#: nifty-desk.php:856
+msgid " File uploaded "
+msgstr ""
+
+#: nifty-desk.php:1107 nifty-desk.php:1110
+msgid "There is a new response to the support ticket titled"
+msgstr ""
+
+#: nifty-desk.php:1107 nifty-desk.php:1110 nifty-desk.php:1274
+#: nifty-desk.php:1291 nifty-desk.php:1333
+msgid "Ticket content"
+msgstr ""
+
+#: nifty-desk.php:1107
+msgid "Response text"
+msgstr ""
+
+#: nifty-desk.php:1107 nifty-desk.php:1110
+msgid "Follow this link to view the reply"
+msgstr ""
+
+#: nifty-desk.php:1141 nifty-desk.php:1147
+msgid "New response"
+msgstr ""
+
+#: nifty-desk.php:1274
+msgid "New support ticket:"
+msgstr ""
+
+#: nifty-desk.php:1274
+msgid ""
+"A new support ticket has been received. To access this ticket, please follow "
+"this link:"
+msgstr ""
+
+#: nifty-desk.php:1291
+msgid "New Ticket Assigned"
+msgstr ""
+
+#: nifty-desk.php:1291
+msgid "A new ticket has been assigned to you. "
+msgstr ""
+
+#: nifty-desk.php:1291 nifty-desk.php:1334
+msgid "Follow this link to view the ticket"
+msgstr ""
+
+#: nifty-desk.php:1321 nifty-desk.php:2188 nifty-desk.php:2208
+#: nifty-desk.php:2229 nifty-desk.php:2272
+msgid "Unknown"
+msgstr ""
+
+#: nifty-desk.php:1331
+msgid "Your Support Ticket "
+msgstr ""
+
+#: nifty-desk.php:1332
+msgid "has been marked as "
+msgstr ""
+
+#: nifty-desk.php:1337
+msgid "Support Ticket Status Changed"
+msgstr ""
+
+#: nifty-desk.php:1363
+msgid ""
+"Your ticket has been marked as closed. Please answer the following survey(s):"
+msgstr ""
+
+#: nifty-desk.php:1390
+msgid "Customer satisfaction survey"
+msgstr ""
+
+#: nifty-desk.php:1458 nifty-desk.php:2400 nifty-desk.php:2412
+msgid "Log in"
+msgstr ""
+
+#: nifty-desk.php:1458 nifty-desk.php:2400 nifty-desk.php:2412
+msgid "or"
+msgstr ""
+
+#: nifty-desk.php:1458 nifty-desk.php:2400 nifty-desk.php:2412
+msgid "register"
+msgstr ""
+
+#: nifty-desk.php:1458
+msgid "to submit a response."
+msgstr ""
+
+#: nifty-desk.php:1612 templates/templates.php:403 templates/templates.php:419
+msgid "This support ticket has been marked as private."
+msgstr ""
+
+#: nifty-desk.php:1642 nifty-desk.php:1648 templates/templates.php:406
+msgid "This support ticket has been marked as solved."
+msgstr ""
+
+#: nifty-desk.php:1687 nifty-desk.php:1694
+msgid "This support ticket is pending approval."
+msgstr ""
+
+#: nifty-desk.php:2012 nifty-desk.php:2021
+msgid "Last Response By"
+msgstr ""
+
+#: nifty-desk.php:2013 nifty-desk.php:2022
+msgid "Status"
+msgstr ""
+
+#: nifty-desk.php:2014
+msgid "Rating"
+msgstr ""
+
+#: nifty-desk.php:2400 nifty-desk.php:2412
+msgid "to submit a support ticket."
+msgstr ""
+
+#: nifty-desk.php:2437
+msgid "Open Tickets"
+msgstr ""
+
+#: nifty-desk.php:2438
+msgid "Pending Tickets"
+msgstr ""
+
+#: nifty-desk.php:2707
+msgid "All Priorities"
+msgstr ""
+
+#: nifty-desk.php:2743
+msgid "All Statuses"
+msgstr ""
+
+#: nifty-desk.php:2780
+msgid "All Agents"
+msgstr ""
+
+#: nifty-desk.php:2917
+msgid "Submitted by "
+msgstr ""
+
+#: nifty-desk.php:2918
+msgid "on "
+msgstr ""
+
+#: nifty-desk.php:3063
+msgid "You have not completed all required fields"
+msgstr ""
+
+#: nifty-desk.php:3119
+msgid "Description"
+msgstr ""
+
+#: nifty-desk.php:3135
+msgid "Upload a file:"
+msgstr ""
+
+#: nifty-desk.php:3140
+msgid "Allowed formats: JPEG, PNG, GIF, TIFF, PDF, ZIP:"
+msgstr ""
+
+#: nifty-desk.php:3189
+msgid ""
+"Please select the mailing type to use when sending any notification e-mails"
+msgstr ""
+
+#: nifty-desk.php:3193
+msgid "Default WordPress Mail"
+msgstr ""
+
+#: nifty-desk.php:3195
+msgid "Custom SMTP settings"
+msgstr ""
+
+#: nifty-desk.php:3199
+msgid "Enter your host URL (for gmail use imap.gmail.com)"
+msgstr ""
+
+#: nifty-desk.php:3201
+msgid "The username for your Email Account"
+msgstr ""
+
+#: nifty-desk.php:3202
+msgid "The password of your Email Account"
+msgstr ""
+
+#: nifty-desk.php:3203
+msgid "And finally the port number"
+msgstr ""
+
+#: nifty-desk.php:3204
+msgid "Encryption"
+msgstr ""
+
+#: nifty-desk.php:3211 nifty-desk.php:3218 nifty-desk.php:3225
+#: nifty-desk.php:3232
+msgid "No Encryption"
+msgstr ""
+
+#: nifty-desk.php:3212 nifty-desk.php:3219 nifty-desk.php:3226
+#: nifty-desk.php:3233
+msgid "SSL - (use SSL for gmail)"
+msgstr ""
+
+#: nifty-desk.php:3213 nifty-desk.php:3220 nifty-desk.php:3227
+#: nifty-desk.php:3234
+msgid ""
+"TLS - This is not the same as STARTTLS. For most servers SSL is the "
+"recommended option."
+msgstr ""
+
+#: nifty-desk.php:3239
+msgid ""
+"In the event that SMTP sending fails, the wordpress mailer will be used as "
+"the fallback."
+msgstr ""
+
+#: nifty-desk.php:3528
+msgid ""
+"Warning: Please update to the latest Nifty Desk Premium version. We have "
+"made many changes in both Nifty Desk Basic and Nifty Desk Premium. Both "
+"these plugins need to be updated to ensure that no compatibility issues "
+"arise and to ensure that our latest add-on Nifty Desk Customer Satisfaction "
+"Surveys is also supported. Please do the update through your WordPress "
+"dashboard, or by logging into your Nifty Desk account "
+msgstr ""
+
+#: nifty-desk.php:3528
+msgid "here"
+msgstr ""
+
+#: nifty-desk.php:3669
+msgid "Database Update In Progress"
+msgstr ""
+
+#: nifty-desk.php:3670
+msgid ""
+"We need to upgrade the Nifty Desk database tables. Please be patient and do "
+"not navigate away from this page. The process will refresh the page through "
+"each update iteration. Once done, your ticket dashboard should be displayed."
+msgstr ""
+
+#: nifty-desk.php:3671
+msgid ""
+"The database update process may take a little while, so please be patient."
+msgstr ""
+
+#: nifty-desk.php:3742
+msgid "Submit as Open"
+msgstr ""
+
+#: nifty-desk.php:3743
+msgid "Submit as Pending"
+msgstr ""
+
+#: nifty-desk.php:3744
+msgid "Submit as Solved"
+msgstr ""
+
+#: nifty-desk.php:3764
+msgid "Standard Response"
+msgstr ""
+
+#: nifty-desk.php:3764
+msgid "Private Note"
+msgstr ""
+
+#: nifty-desk.php:3829
+msgid "Refresh"
+msgstr ""
+
+#: nifty-desk.php:4031
+msgid ""
+"There was a problem sending the ticket notification. Please check your email "
+"settings and host to make sure everything is correct and your mail ports are "
+"not blocked"
+msgstr ""
+
+#: nifty-desk.php:4033
+msgid ""
+"This response failed to be sent to the intended user(s). Please check your "
+"email settings and host to make sure everything is correct and your mail "
+"ports are not blocked."
+msgstr ""
+
+#: nifty-desk.php:4068 templates/templates.php:516
+msgid "Nifty Desk Notice"
+msgstr ""
+
+#: nifty-desk.php:4069
+msgid "The following page has been trashed"
+msgstr ""
+
+#: nifty-desk.php:4073
+msgid "Please restore it from your trashed posts."
+msgstr ""
+
+#: nifty-desk.php:4073
+msgid "View"
+msgstr ""
+
+#: templates/basic_templates/classic/submit_ticket.php:6
+msgid "Submit Support Ticket"
+msgstr ""
+
+#: templates/basic_templates/classic/support_center.php:26
+msgid "News"
+msgstr ""
+
+#: templates/basic_templates/classic/support_center.php:32
+msgid "Updates"
+msgstr ""
+
+#: templates/basic_templates/classic/support_center.php:40
+msgid "Support Tickets"
+msgstr ""
+
+#: templates/basic_templates/classic/support_center.php:43
+msgid "Latest"
+msgstr ""
+
+#: templates/basic_templates/classic/ticket_view.php:7
+msgid "Subject:"
+msgstr ""
+
+#: templates/templates.php:11 templates/templates.php:24
+#: templates/templates.php:521
+msgid "Themes"
+msgstr ""
+
+#: templates/templates.php:25
+msgid "Select a theme for your help desk"
+msgstr ""
+
+#: templates/templates.php:37
+msgid "Current Theme"
+msgstr ""
+
+#: templates/templates.php:55
+msgid "Theme Directories"
+msgstr ""
+
+#: templates/templates.php:55
+msgid "Directories where themes can be found"
+msgstr ""
+
+#: templates/templates.php:68
+msgid "Does Not Exist"
+msgstr ""
+
+#: templates/templates.php:81
+msgid "Directory Shortcodes"
+msgstr ""
+
+#: templates/templates.php:106
+msgid ""
+"Use {upload_path} when adding/editing theme files, to prevent losing theme "
+"files upon update"
+msgstr ""
+
+#: templates/templates.php:415
+msgid "This support ticket has been received."
+msgstr ""
+
+#: templates/templates.php:521
+msgid ""
+"Your support desk theme can be changed from within the Nifty Desk setting "
+"area."
+msgstr ""

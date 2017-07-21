@@ -1,0 +1,967 @@
+#wpcontent {
+    padding-left:0 !important;
+}
+.wrap { margin: 0 !important;}
+
+.ui-tabs-panel {
+    /* padding-left: 0 !important; */
+    padding-right: 0 !important;
+    margin-top:0 !important;
+    padding:0 !important;
+        border-top: 1px solid #eee;
+}
+#nifty_desk_tabs_ul {
+    margin:0; 
+}
+.ui-tabs-nav li { margin-bottom:0 !important; }
+
+a{
+	color: #303E47;
+	text-decoration: none;
+}
+
+
+.bold {
+    font-weight:bold;
+
+}
+.grey {
+    color:#666;
+}
+.italic {
+    font-style:italic;
+
+}
+a:hover{
+	color: #303E47;
+}
+
+.nifty_desk_db_container{
+	width: 100%;	
+    overflow: auto;
+}
+
+.nifty_desk_db_inner_container{
+
+}
+.nifty_desk_db_left_column_inner {
+    padding:10px;
+    display:block;
+    overflow:auto;
+}
+.nifty_desk_db_left_column_inner ul li {
+    margin-left:10px;
+}
+
+.nifty_desk_db_inner_container hr {
+    margin-left:10px;
+    margin-right:10px;
+}
+a.nd_ql_li_a {
+    text-decoration: underline;
+}
+.nifty_desk_modern_ticket_pagination {
+    margin-top: 10px;
+}
+
+span.nifty_desk_error {
+    display: block;
+    padding: 10px;
+    border: 1px solid #ccc;
+    color: #ff7d7d;
+    
+    margin-bottom: 10px;
+}
+.nifty_desk_view_front_end { font-size:0.8em; text-decoration: underline; font-style: italic; }
+.nifty_desk_db_column{
+    display: block;
+    margin: 0 5px 10px 0;
+    float: left;
+    width: 100%;
+}
+
+.nifty_desk_db_left_column{
+    width:250px;
+    float: left;
+    background-color: #fbfbfb;
+}
+
+
+.nifty_desk_db_center_column_inner {
+    width:100%;
+        padding: 10px;
+    margin-left: 30px;
+
+}
+.nifty_desk_db_center_column{
+    left: 250px;
+    right: 0px;
+    display: flex;
+    background-color: white;
+}
+
+.ticket_container{
+	float: left;
+    display: inline-block;
+    background-color: white;
+    padding: 10px;
+}
+
+.nifty_desk_db_full_column{
+    width: 95%;
+    padding: 15px 22px;
+}
+
+.nifty_desk_db_controls{
+	margin: 0;
+}
+.ui-tabs-nav li { position: relative; }
+a.tabclose {
+position: absolute;
+    top: 3px;
+    right: 5px;
+    text-align: center;
+    display: block;
+    padding: 0 !important;
+    width: 15px;
+    height: 15px;
+    line-height: 12px;
+    border-radius: 20px;
+}
+a.tabclose:hover {
+    background-color: #941d1d;
+    color: #FFF;
+    border-radius: 20px;
+
+}
+.ui-state-default a:focus {
+    box-shadow: none !important;
+    -webkit-box-shadow: none !important;
+    -moz-box-shadow: none !important;
+    -o-box-shadow: none !important;
+}
+.ui-tabs-nav li:first-child {
+    /*margin-left: 16px;*/
+}
+
+.nifty_desk_db_controls li{
+	margin-bottom: 0;
+    background-color:#fbfbfb;
+    transition:background 0.5s;
+    -webkit-transition:background 0.5s;
+    -moz-transition:background 0.5s;
+    -o-transition:background 0.5s;
+
+}
+.nifty_desk_db_controls li:hover {
+    background-color:#ebebeb;
+}
+
+.nifty_desk_db_controls li a{
+	display: block;
+	padding: 10px;
+}
+.nifty_desk_db_controls li a:focus {
+    -webkit-box-shadow: none !important;
+    box-shadow: none !important;
+}
+
+
+
+.nifty_desk_view_control_ticket_name {
+    width: 80%;
+    display: inline-block;
+}
+.nifty_desk_view_control_ticket_count {
+    width: 20%;
+    text-align: right;
+    display: inline-block;
+}
+.nifty_desk_action_panel{
+	text-align: right;
+}
+
+.nifty_desk_db_ticket_container{
+	width: 100%;
+}
+
+.ticket_title{
+	cursor: pointer;
+}
+
+.ticket_responder_gravatar img{
+    border-radius: 100px;
+}
+
+.ticket_author_image{
+	display: inline-block;
+	vertical-align: top;
+}
+
+.ticket_author_details{
+    display: inline-block;
+        position: relative;
+    left: 10px;
+}
+
+.ticket_subject{
+	font-weight: bold;
+	font-size: 19px;
+    line-height:22px;
+}
+
+.ticket_author_meta {
+    border-bottom: 1px solid #CCC;
+    padding: 10px 5px;
+    margin: 0 0 10px 0;
+}
+
+.ticket_contents {
+    padding: 15px;
+    margin-left: 40px;    
+    margin-bottom: 10px;
+}
+
+.ticket_author_meta_note .ticket_contents_response{
+    background-color: rgb(255, 246, 217);
+}
+
+.ticket_author_meta_response .ticket_author, .ticket_author_meta_note .ticket_author{
+	margin-top: 10px;
+}
+
+.ticket_author_meta_response, .ticket_author_meta_note {
+    margin-bottom: 10px;
+    border-bottom: 1px dashed #ccc;
+}
+
+.ticket_author_label {
+    display: inline-block;
+    background-color: #118E11;
+    color: white;
+    padding: 1px 5px;
+    border-radius: 2px;
+    font-size: 0.8em;
+}
+
+.ticket_response_label {
+    display: inline-block;
+    background-color: rgb(255, 246, 217);
+    color: black;
+    padding: 1px 5px;
+    border-radius: 2px;
+    font-size: 0.8em;
+}
+
+.ticket_id_label {
+    display: inline-block;
+    background-color: #CE0505;
+    color: white;
+    padding: 1px 5px;
+    border-radius: 2px;
+    font-size: 0.8em;
+}
+
+.nifty_desk_response_textarea {
+    width: 100%;
+    border: 1px solid #CCC;
+    border-radius: 5px;
+    margin: 0 0 10px 0;
+    padding:8px;
+}
+
+.ticket_response_fields .button {
+    margin-bottom: 10px;
+    display: block;
+    margin: 0 15px 10px auto;
+}
+.submit_ticket_internal_note { 
+    float:right;
+    background-color: #333 !important;
+    border-color: #333 !important;
+    color: #FFF !important;
+    margin-right:0;
+
+}
+.submit_ticket_response { 
+    float:right;
+    background-color: #333 !important;
+    border-color: #333 !important;
+    color: #FFF !important;
+    margin-right:0;
+}
+.submit_ticket_status_on_response {
+    float: right;
+    margin: 0 10px;
+}
+.ticket_status {
+    width: 24px;
+}
+.nifty_desk_modern_ticket_row:hover {
+    background-color: #EEE;
+}
+input#nifty_desk_db_check_all {
+    margin-left: 5px;
+}
+input.nifty_desk_checkbox {
+    margin-left: 5px;
+}
+.nifty_desk_file_list {
+    clear: left;
+    display: block;
+    position: relative;
+    margin-top: 10px;
+    margin-left: 10px;
+    color: #333;
+}
+.nifty_desk_status_block {
+    opacity: 0.6;
+    display: inline-block;
+    width: 15px;
+    text-align: center;
+    font-size: 10px;
+    line-height: 15px;
+    padding: 0px;
+    border-radius:2px;
+}
+.nifty_desk_channel_block {
+    background-color:#0073AA;
+    color:#fff;
+    opacity: 0.6;
+    display: inline-block;
+    text-align: center;
+    font-size: 10px;
+    line-height: 15px;
+    padding: 0px;
+    padding-left:3px;
+    padding-right:3px;
+    border-radius:2px;
+}
+.nifty_desk_status_block_9 {
+    background-color:#ffa500;
+    color:#fff;
+}
+.nifty_desk_status_block_3 {
+    background-color:#0073AA;
+    color:#fff;
+}
+.nifty_desk_status_block_2 {
+    background-color:#ccc;
+    color:#666;
+}
+.nifty_desk_status_block_1 {
+    background-color:#666;
+    color:#ccc;
+}
+.nifty_desk_status_block_0 {
+    background-color:#CE0505;
+    color:white;
+}
+.nifty_desk_status_block_undefined {
+   background-color:red;
+    color:white; 
+}
+
+.ticket_checkbox { width:35px; }
+
+.nifty_desk_ticket_meta_input{
+    width: 100%;
+}
+
+table.nifty_desk_db_ticket_container {
+    border-collapse: collapse;
+}
+
+.nifty_desk_db_ticket_container thead tr td, .nifty_desk_db_ticket_container tbody tr td {
+    padding: 10px 0;
+}
+
+.nifty_desk_db_ticket_container thead tr, table.nifty_desk_db_ticket_container tbody tr {
+    border-bottom: 1px solid #E8E8E8;
+}
+
+.nifty_desk_db_column h4{
+    margin: 0;
+}
+
+.ticket_container{
+    width: 98%;
+}
+
+.nifty_desk_pro_modern_departments_container{
+    width: 100%;
+    padding: 0px 3px;
+}
+
+.nifty_desk_department_single {
+    display: block;
+}
+.nifty_desk_db_before_button {
+    margin: 0 0 15px 0;
+    display: block;
+    width: 100%;
+
+}
+.ticket_response_fields {
+    margin-left: 54px;
+    margin-right: 50px;
+    display: block;
+    overflow: auto;
+    padding-bottom:5px;
+}
+.nifty_desk_db_before_button .nifty_desk_upload_button {
+    background-color: #CCC;
+    color: #FFF;
+    padding: 5px;
+    border-radius: 3px;
+}
+.nifty_desk_db_before_button a {
+    padding: 0 5px;
+}
+.nifty_desk_standard_response, .nifty_desk_private_note{
+    cursor: pointer;
+    position:relative;
+    padding: 3px;
+    border: 1px solid #c3c3c3;
+    border-radius: 3px;
+    text-decoration: none !important;
+    padding-left: 6px;
+    padding-right: 6px;
+    line-height: 12px;
+    text-align: center;
+}
+
+.nifty_desk_standard_response{
+    text-decoration: underline;
+}
+
+.nifty_desk_modern_file_upload_container {
+    width: 60%;
+    display: inline-block;
+}
+
+.nifty_desk_modern_quick_responses_container {
+    width: 40%;
+    display: inline-block;
+    padding: 0 0 15px 0;
+    text-align: right;
+}
+
+.nifty_desk_db_single_ticket{
+    cursor: pointer;
+}
+
+.nifty_desk_modern_ticket_actions{
+    text-align: right;
+    padding: 0 0 10px 0;
+    border-bottom: 1px solid #E8E8E8;
+}
+
+
+.priority_box {
+    display: inline-block;
+
+    padding: 1px 5px;
+    border-radius: 2px;
+    font-size: 0.8em;
+
+}
+.critical {
+    background-color: #CE0505;
+    color: white;
+}
+
+.urgent {
+    background-color: #ffa500;
+    color: white;
+}
+.high {
+    background-color: #f7cb56;
+    color: white;
+}
+.low {
+    background-color: #ccc;
+    color: white;
+}
+
+.nifty_desk_db_ticket_container td {
+    padding: 5px 2px 5px 12px !important;
+}
+.ticket_title span {
+    max-width:250px;
+    display: block;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+.nifty_desk_db_single_ticket {
+ overflow: hidden;
+    text-overflow: ellipsis;  
+    white-space: nowrap; 
+}
+
+
+
+.nifty_desk_button_active {
+    background-color: #333 !important;
+    border-color: #333 !important;
+    color: #FFF;
+}
+
+
+#wpcontent { 
+    background-color:#FFF;
+}
+
+@media screen and (max-width:700px) {
+
+    .nifty_desk_db_center_column {
+        display:inline-block;
+
+    }
+    .nifty_desk_db_left_column {
+        width:100%;
+        max-height: 150px;
+        overflow-y: scroll;
+    }
+    .nifty_desk_db_center_column_inner {
+        margin-left: 0;
+    }
+    .ticket_author, .author {
+        display:none;
+    }
+    .ticket_priority_clause, .ticket_priority {
+        display:none;
+    }
+
+
+}
+
+#wpwrap {
+    background-color:#fff;
+}
+
+
+
+.ui-tabs-nav li {
+    display: inline-block;
+    margin-right:2px;
+}
+
+.ui-widget-header {
+    background: transparent !important;
+    border-style: none !important;
+}
+
+.ui-corner-all {
+    border-style: none;
+    border-radius: 0px ;
+}
+
+.ui-tabs-active {
+    background: #0073AA !important;
+}
+
+.ui-tabs-active a {
+    color:white !important;
+}
+
+.ui-state-default{
+    background: #E8E8E8;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 15px;
+    padding-right: 15px;
+
+    transition: background 0.2s;
+    -webkit-transition: background 0.2s;
+    -moz-transition: background 0.2s;
+    -o-transition: background 0.2s;
+}
+
+.ui-state-default a{
+    text-decoration: none;
+    color: black;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 25px;
+    padding-right: 25px;
+
+}
+
+.ui-tabs-panel {
+    background: white;
+    /*margin-top: -19px !important; */
+    /* padding: 13px; */
+}
+
+.ui-slider {
+    position: relative;
+    text-align: left;
+    background: #E8E8E8;
+}
+.ui-slider .ui-slider-handle {
+    position: absolute;
+    z-index: 2;
+    cursor: default;
+    background: #0073AA;
+    border-radius: 10px;
+    padding: 9px !important;
+}
+.ui-slider .ui-slider-range {
+    position: absolute;
+    z-index: 1;
+    font-size: .7em;
+    display: block;
+    border: 0;
+    background-position: 0 0;
+}
+
+.ui-slider-horizontal {
+    height: .8em;
+}
+.ui-slider-horizontal .ui-slider-handle {
+    top: -.3em;
+    margin-left: -.6em;
+}
+.ui-slider-horizontal .ui-slider-range {
+    top: 0;
+    height: 100%;
+}
+.ui-slider-horizontal .ui-slider-range-min {
+    left: 0;
+}
+.ui-slider-horizontal .ui-slider-range-max {
+    right: 0;
+}
+
+.ui-slider-vertical {
+    width: .8em;
+    height: 100px;
+}
+.ui-slider-vertical .ui-slider-handle {
+    left: -.3em;
+    margin-left: 0;
+    margin-bottom: -.6em;
+}
+.ui-slider-vertical .ui-slider-range {
+    left: 0;
+    width: 100%;
+}
+.ui-slider-vertical .ui-slider-range-min {
+    bottom: 0;
+}
+.ui-slider-vertical .ui-slider-range-max {
+    top: 0;
+}
+.nifty_desk_refresh { 
+    cursor: pointer;
+    float:right;
+}
+ .nifty_desk_loader {
+    width:60px;
+ }
+ .nifty_desk_loader {
+    width: 30px;
+    margin-left: 20px;
+    margin-bottom: 3px;
+}
+.nifty_desk_view_active {
+    background-color:#ccc;
+}
+
+.nifty_desk_attachment { 
+    border-radius: 4px;
+    list-style-type: circle;
+    color:#0073AA !important;
+    margin-left:25px;
+}
+.nifty_desk_attachment a { 
+    color:#0073AA !important;
+
+}
+
+.nifty_desk_recent_ticket {
+    color:#00a0d2;
+}
+
+.ticket_responser, .ticket_responses {
+    display: table-cell;
+}
+
+.nifty_desk_db_ticket_container { font-size:11px; }
+
+.nifty_desk_dropdown {
+    width: 120px;
+    border-radius: 3px;
+}
+
+.nifty_desk_timer span{
+    width: 100%;
+    font-size:18px;
+    display: block;
+    text-align: left;
+    color:#232323;
+}
+.nifty_desk_timer_btn{
+    background-color: #fff !important;
+    border: solid 1px #c3c3c3;
+    border-radius: 3px;
+    color: #333333;
+    margin-top: 13px;
+    display: inline-block;
+    width: 48%;
+    text-align: center;
+    font-size: 14px;
+    height: 22px;
+    line-height: 21px;
+}
+
+.nifty_desk_timer_hist {
+    color: #a8a8a8;
+}
+
+.nifty_desk_seen {
+    display: inline-block;
+    background-color: rgb(0, 115, 170);
+    color: #FFF;
+    padding: 1px 5px;
+    border-radius: 2px;
+    font-size: 0.8em;
+}
+
+#nifty_desk_prompt_actions_container {
+    text-align:center;
+}
+
+#nifty_desk_prompt_title {
+    padding-bottom: 10px;
+    border-bottom: 1px solid #eee;
+}
+#nifty_desk_prompt_actions {
+    position: absolute;
+    bottom: 0;
+    left: 20px;
+    right: 20px;
+    top: 330px;
+}
+#nifty_desk_prompt_content {
+    display: block;
+    bottom: 70px;
+    top: 70px;
+    right: 20px;
+    left: 20px;
+    position: absolute;
+}
+.nifty_desk_shakey_thing {
+    width: 30% !important;
+    padding: 20px !important;
+
+}
+.nifty_desk_shakey_thing div {
+    display:block !important;
+
+}
+
+#nifty_desk_the_thing_that_shouldnt_be {
+    position: absolute;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 150px;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    width:0px;
+    height: 330px;
+    background-color: #fff;
+    z-index: 10001;
+    opacity: 1;
+    border-radius: 2px;
+    border: 1px solid #fefefe;
+    padding: 0px;
+    transition:all 0.3s; 
+    -webkit-transition:all 0.3s; 
+    -moz-transition:all 0.3s; 
+    -o-transition:all 0.3s; 
+
+}
+#nifty_desk_the_thing_that_shouldnt_be div {
+    display:none;
+
+}
+#nifty_desk_overlay_container {
+    position: absolute;
+
+    left: -200px;
+    right: 0;
+    top: 0;
+    height: 100%;
+}
+
+#nifty_desk_overlay_bg {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: #000;
+    opacity: 0.4;
+    z-index: 9999;
+}
+
+.nifty_desk_sortby {
+    cursor: pointer;
+}
+.nifty_desk_sorted_ASC:after {
+    border: 5px solid transparent;
+    border-top-color: #666;
+    margin-top: 5px;
+}
+.nifty_desk_sorted_DESC:after {
+    border: 5px solid transparent;
+    border-bottom-color: #666;
+    margin-top: 0px;
+}
+
+.nifty_desk_sorted:after {
+    content: '';
+    position: absolute;
+    width: 0;
+    height: 0;
+    margin-left: 5px;
+}
+.nifty_desk_sorted {
+    font-weight: bold;
+}
+
+.nifty_desk_more_button:after {
+    content: '';
+    position: absolute;
+    top: 44%;
+    width: 0;
+    height: 0;
+    border: 5px solid transparent;
+    border-top-color: #666;
+    right: 5px;
+
+}
+
+.nifty_desk_dropdown-content a {
+    display: block;
+    width: 172px;
+    padding: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.nifty_desk_dropdown-content a:hover{
+    background-color:#ccc;
+}
+.nifty_desk_dropdown_button {
+    position: relative;
+    display: inline-block;
+    float:right;
+}
+
+.nifty_desk_dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f9f9f9;
+    width: 192px;
+    padding:10px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+    right: 0px;
+}
+
+.nifty_desk_dropdown_button:hover .nifty_desk_dropdown-content {
+    display: block;
+}
+
+
+@media screen and (max-width:1600px) {
+    td.ticket_responses { display: none; }
+    .ticket_title { max-width:250px; }
+    td.ticket_channel { max-width:30px; }
+    .nifty_desk_channel_block { 
+        width: 23px;
+        overflow: hidden;
+        text-overflow: ellipsis;
+        white-space: nowrap;
+    }
+}
+
+.nifty_desk_question_icon_dashboard {
+    display: inline-block;
+    font-size: 9px;
+    line-height: 15px;
+    height: 13px;
+    width: 13px;
+    text-align: center;
+    color: #ffffff;
+    background-color: #bfbfbf;
+    font-family: sans-serif;
+    border-radius: 10px;
+    font-weight: 700;
+    cursor: pointer;
+    float: right;
+    margin: 5px;
+}
+
+.nifty_blue {
+    color:#08c;
+}
+.nifty_blue:hover {
+    color:#08c;
+}
+
+.ticket_originator { 
+cursor: pointer;
+}
+.nifty_desk_modern_ticket_actions {
+    height:30px;
+}
+
+.nifty_desk_seen_list {
+    opacity: 0.6;
+    display: inline-block;
+    width: 15px;
+    text-align: center;
+    font-size: 10px;
+    line-height: 15px;
+    padding: 0px;
+    border-radius: 2px;
+}
+
+.nifty_desk_sentiment_block {
+    opacity: 0.6;
+    display: inline-block;
+    text-align: center;
+    font-size: 10px;
+    line-height: 15px;
+    padding: 0px;
+    padding-left:2px;
+    padding-right:2px;
+    border-radius: 2px;
+}
+.sent_neutral {
+    background-color: #666666;
+    color: #FFF;
+}
+
+.sent_happy {
+    background-color: #80af74;
+    color:#FFF;
+}
+.sent_very_happy {
+    background-color: #2e9c12;
+    color:#FFF;
+}
+.sent_very_unhappy {
+    background-color: #b70000;
+    color:#fff;
+}
+.sent_unhappy {
+    background-color: #b5626a;
+    color:#FFF;
+}
